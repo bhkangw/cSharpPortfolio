@@ -1,0 +1,9 @@
+/Users/bkila/Desktop/cSharpPortfolio/bin/Debug/netcoreapp1.1/cSharpPortfolio.deps.json
+/Users/bkila/Desktop/cSharpPortfolio/bin/Debug/netcoreapp1.1/cSharpPortfolio.runtimeconfig.json
+/Users/bkila/Desktop/cSharpPortfolio/bin/Debug/netcoreapp1.1/cSharpPortfolio.runtimeconfig.dev.json
+/Users/bkila/Desktop/cSharpPortfolio/obj/Debug/netcoreapp1.1/cSharpPortfolio.csproj.CoreCompileInputs.cache
+/Users/bkila/Desktop/cSharpPortfolio/obj/Debug/netcoreapp1.1/cSharpPortfolio.AssemblyInfo.cs
+/Users/bkila/Desktop/cSharpPortfolio/bin/Debug/netcoreapp1.1/cSharpPortfolio.dll
+/Users/bkila/Desktop/cSharpPortfolio/bin/Debug/netcoreapp1.1/cSharpPortfolio.pdb
+/Users/bkila/Desktop/cSharpPortfolio/obj/Debug/netcoreapp1.1/cSharpPortfolio.dll
+/Users/bkila/Desktop/cSharpPortfolio/obj/Debug/netcoreapp1.1/cSharpPortfolio.pdb
